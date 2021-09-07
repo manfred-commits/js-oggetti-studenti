@@ -70,4 +70,6 @@ var nuovoStudente = {
 }
 console.log(nuovoStudente);
 
+studenti.push(nuovoStudente);
 
+console.log(studenti);
